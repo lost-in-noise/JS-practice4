@@ -11,3 +11,8 @@
 // let arr = [-1, -2, -3, 4].some((item) => item > 0);
 // console.log(arr);
 
+// 16.4;
+// let words = ['Madrid', 'Rome', 'Milan', 'Berlin'];
+// let filteredWords = words.filter(word => word.includes('m') || word.includes('M'));
+
+// console.log(filteredWords);
