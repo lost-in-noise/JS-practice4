@@ -92,3 +92,17 @@
 //   console.log("არასწორია");
 // }
 
+
+
+// 16.13;
+// function checkLinkForHttps(link) {
+//     if (link.indexOf("https://") !== -1) {
+//       console.log("კი, მოიცავს");
+//     } else {
+//       console.log("არ მოიცავს");
+//     }
+//   }
+  
+//   let link = "https://google.com";
+//   checkLinkForHttps(link);
+
