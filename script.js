@@ -64,3 +64,10 @@
 // console.log(reversed); // Output: tpircsavaj
 
 
+// 16.10;
+// let info = 'Good day';
+
+// let newInfo = info.slice(5); 
+
+// console.log(newInfo);
+
