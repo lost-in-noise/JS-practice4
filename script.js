@@ -71,3 +71,12 @@
 
 // console.log(newInfo);
 
+
+// 16.11;
+// function getStringLength(stringParamet) {
+//     return stringParamet.length;
+// }
+// let resultLength = getStringLength('Everything starts now!');
+
+// console.log(resultLength);
+
