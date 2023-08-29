@@ -29,3 +29,14 @@
 
 // let numAsNumber = parseInt(numbers);
 // console.log("Number:", numAsNumber);
+
+
+// 16.7
+// let array = ['html', 100, 'css', 'javascript', 25, 10, 'python', 11];
+
+// for (let element of array) {
+//     if (typeof element === 'number') {
+//       console.log(element);
+//     }
+// }
+
