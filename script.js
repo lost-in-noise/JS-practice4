@@ -53,4 +53,14 @@
 //   console.log(newArray);
 
 
+// 16.9;
+// let language = 'javascript';
+// let reversed = '';
+
+// for (let i = language.length - 1; i >= 0; i--) {
+//   reversed += language[i];
+// }
+
+// console.log(reversed); // Output: tpircsavaj
+
 
