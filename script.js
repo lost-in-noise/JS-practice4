@@ -31,7 +31,7 @@
 // console.log("Number:", numAsNumber);
 
 
-// 16.7
+// 16.7;
 // let array = ['html', 100, 'css', 'javascript', 25, 10, 'python', 11];
 
 // for (let element of array) {
@@ -39,4 +39,18 @@
 //       console.log(element);
 //     }
 // }
+
+
+// 16.8;
+// let array2 = [14, 150, 'css', null, 'javascript', 25];
+
+// let newArray = array2.map(element => (
+//     typeof element === 'number' ? element * element :
+//     typeof element === 'string' ? element.toUpperCase() :
+//     element
+//   ));
+
+//   console.log(newArray);
+
+
 
