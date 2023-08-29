@@ -80,3 +80,15 @@
 
 // console.log(resultLength);
 
+
+// 16.12;
+// let correctAnswer = "tbilisi";
+// let userAnswer = prompt("საქართველოს დედაქალაქი?");
+// userAnswer = userAnswer.toLowerCase();
+
+// if (userAnswer === correctAnswer) {
+//   console.log("სწორია");
+// } else {
+//   console.log("არასწორია");
+// }
+
