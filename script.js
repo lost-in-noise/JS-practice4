@@ -100,15 +100,15 @@ wrapperDiv.appendChild(h2Element);
 
 
 // 16.12;
-// let correctAnswer = "tbilisi";
-// let userAnswer = prompt("საქართველოს დედაქალაქი?");
-// userAnswer = userAnswer.toLowerCase();
+let correctAnswer = "tbilisi";
+let userAnswer = prompt("საქართველოს დედაქალაქი?");
+userAnswer = userAnswer.toLowerCase();
 
-// if (userAnswer === correctAnswer) {
-//   console.log("სწორია");
-// } else {
-//   console.log("არასწორია");
-// }
+if (userAnswer === correctAnswer) {
+  console.log("სწორია");
+} else {
+  console.log("არასწორია");
+}
 
 
 
