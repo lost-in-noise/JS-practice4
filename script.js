@@ -19,6 +19,24 @@
 
 
 // 16.5;
+let wrapperDiv = document.createElement('div');
+wrapperDiv.classList.add ('wraper');
+
+document.getElementById('fromJS').appendChild(wrapperDiv);
+
+
+let imgElement = document.createElement('img');
+imgElement.setAttribute('src', 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/tech-ninja-shirtom.jpg');
+imgElement.setAttribute('alt', 'image');
+
+let h2Element = document.createElement('h2');
+h2Element.classList.add ('title');
+h2Element.textContent = 'Happy Coding!';
+
+
+wrapperDiv.appendChild(imgElement);
+wrapperDiv.appendChild(h2Element);
+
 
 
 // 16.6;
@@ -108,6 +126,6 @@
 
 
 // 16.14;
-let fruits = ['apple', 'mango', 'avocado', 'kiwi'];
-fruits.splice(fruits.length -2, 1, 'strawberry');
-console.log(fruits);
+// let fruits = ['apple', 'mango', 'avocado', 'kiwi'];
+// fruits.splice(fruits.length -2, 1, 'strawberry');
+// console.log(fruits);
